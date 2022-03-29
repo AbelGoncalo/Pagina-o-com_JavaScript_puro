@@ -10,7 +10,7 @@
 
 # ✌Sobre
 
-Paginaçcão com Javascript puro.
+Paginação com Javascript puro.
 
 ---
 
